@@ -7,4 +7,5 @@ Para clonar, compilar y ejecutar este proyecto necesitas tener instalado en tu s
 -**Node.js:** Para ejecutar el programa principal.
 -**Java (JDK):** Para compilar y ejecutar las gramáticas de ANTLR.
 -**ANTLR:** (Opcional, si quieres modificar la gramática) Herramienta para generar analizadores léxicos y sintácticos a partir de archivos .g4.
+
 Instalación rápida de requisitos
