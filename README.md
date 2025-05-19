@@ -1,6 +1,8 @@
-#51995
+# 51995
+
 Proyecto analizador de Sintaxis y Semantica de lenguajes hecho por Luciano Godoy
-#Requisitos
+
+# Requisitos
 
 - **Git:** Para clonar el repositorio. [Descarga Git](https://git-scm.com/)
 - **Node.js:** Para ejecutar la aplicación. [Descarga Node.js](https://nodejs.org/)
@@ -9,17 +11,20 @@ Proyecto analizador de Sintaxis y Semantica de lenguajes hecho por Luciano Godoy
 
 # Clonar el repositorio:
 1. Abre una terminal o consola de comandos (cmd).
-2. Ubícate en la carpeta donde quieras tener el proyecto.
+2. Ejecuta el siguiente comando para clonar el repositorio:
 > ```bash
-> git clone
-3. Ejecuta el siguiente comando para clonar el repositorio:
+> git clone https://github.com/luxtry23/51995.git
+3. Una vez clonado para abrir el proyecto debes ejecutar estos dos codigos:
 > ```bash
-> https://github.com/kevin7706/51958.git
-5. Una vez clonado, entra en la carpeta del proyecto
-> ```bash
-> cd 51958
-7. # Abrir el Proyecto en tu Editor
-Abre VS Code para trabajar con el código del proyecto. Para esto ejecuta en la ventana
-de comandos abierta
+> cd 51995
+
 > ```bash
 > code .
+
+Si todo esta correcto deberias ver el proyecto en VS Code
+11. # Abrir archivo Command.g4
+Al abrirlo deberias ver la gramatica del caso
+# Ejecutar la aplicacion:
+Para ejecutarlo 
+>```bash
+> node index.js
