@@ -22,8 +22,9 @@ Proyecto analizador de Sintaxis y Semantica de lenguajes hecho por Luciano Godoy
 > code .
 
 Si todo esta correcto deberias ver el proyecto en VS Code
-11. # Abrir archivo Command.g4
-Al abrirlo deberias ver la gramatica del caso
+
+# Abrir archivo Command.g4
+Al abrirlo deberias ver la gramatica pedida
 # Ejecutar la aplicacion:
 Para ejecutarlo 
 >```bash
