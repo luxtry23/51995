@@ -32,3 +32,5 @@ Para ejecutarlo
 El programa analizará el archivo de entrada puesto en input.txt(para corroborar los ejemplos como correct1.txt e correct2.txt, se debera remplazar el codigo en input.txt)
 
 Luego de remplazarlo en el programa,este correra y en caso contrario mostrara los errores.
+# ARBOL
+- Para ver el arbol deberas pararte en Comand.g4 y presionar la tecla F5
