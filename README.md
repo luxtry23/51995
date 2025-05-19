@@ -29,3 +29,6 @@ Al abrirlo deberias ver la gramatica pedida
 Para ejecutarlo 
 >```bash
 > node index.js
+El programa analizará el archivo de entrada puesto en input.txt(para corroborar los ejemplos como correct1.txt e correct2.txt, se debera remplazar el codigo en input.txt)
+
+Luego de remplazarlo en el programa,este correra y en caso contrario mostrara los errores.
